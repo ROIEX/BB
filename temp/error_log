@@ -1,0 +1,35 @@
+[17-Apr-2015 17:11:27 America/Chicago] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/trademark/public_html/temp/include/Site.class.php on line 308
+[19-Apr-2015 02:02:50 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_array() in /home/trademark/public_html/temp/include/Site.class.php on line 196
+[19-Apr-2015 02:02:59 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_array() in /home/trademark/public_html/temp/include/Site.class.php on line 196
+[19-Apr-2015 13:13:08 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_array() in /home/trademark/public_html/temp/include/Site.class.php on line 133
+[21-Apr-2015 02:25:52 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'trademar_user200'@'localhost' (using password: YES) in /home/trademark/public_html/temp/include/Site.class.php on line 9
+[21-Apr-2015 02:26:22 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'trademar_user200'@'localhost' (using password: YES) in /home/trademark/public_html/temp/include/Site.class.php on line 9
+[22-Apr-2015 08:15:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trademark/public_html/temp/include/Site.class.php:235) in /home/trademark/public_html/temp/include/Site.class.php on line 174
+[23-Apr-2015 09:09:19 America/Chicago] PHP Warning:  preg_match(): Unknown modifier 'C' in /home/trademark/public_html/temp/test.php on line 32
+[27-Apr-2015 12:40:09 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/trademark/public_html/temp/include/Site.class.php on line 118
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 59
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/trademark/public_html/temp/authorise.php on line 105
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 59
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/trademark/public_html/temp/authorise.php on line 105
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 59
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/trademark/public_html/temp/authorise.php on line 105
+[27-Apr-2015 12:40:49 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:42:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:42:28 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:42:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:42:28 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:42:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:42:28 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:45:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:45:13 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:45:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:45:13 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 12:45:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 87
+[27-Apr-2015 12:45:13 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/authorise.php on line 174
+[27-Apr-2015 13:23:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/carrier_admin.php on line 171
+[27-Apr-2015 13:23:21 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/carrier_admin.php on line 197

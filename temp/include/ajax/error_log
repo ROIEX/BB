@@ -1,0 +1,18 @@
+[19-Apr-2015 12:11:53 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 47
+[19-Apr-2015 12:14:57 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 47
+[19-Apr-2015 12:16:53 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 47
+[19-Apr-2015 12:16:54 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 47
+[19-Apr-2015 12:16:55 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 47
+[19-Apr-2015 12:16:55 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 47
+[19-Apr-2015 12:16:55 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 47
+[19-Apr-2015 13:13:16 America/Chicago] PHP Fatal error:  Call to undefined function mssql_fetch_assoc() in /home/trademark/public_html/temp/include/Site.class.php on line 80
+[22-Apr-2015 15:23:11 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trademark/public_html/temp/include/Site.class.php on line 73
+[27-Apr-2015 13:19:39 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/trademark/public_html/temp/include/Site.class.php on line 119
+[27-Apr-2015 13:22:19 America/Chicago] PHP Fatal error:  Class 'Site' not found in /home/trademark/public_html/temp/include/initializer.php on line 31
+[28-Apr-2015 12:48:39 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/include/ajax/forgotpass.php on line 9
+[28-Apr-2015 12:48:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trademark/public_html/temp/include/ajax/forgotpass.php:9) in /home/trademark/public_html/temp/include/Site.class.php on line 216
+[28-Apr-2015 12:50:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/include/ajax/forgotpass.php on line 9
+[28-Apr-2015 12:50:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trademark/public_html/temp/include/ajax/forgotpass.php:9) in /home/trademark/public_html/temp/include/Site.class.php on line 216
+[29-Apr-2015 12:28:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/include/Site.class.php on line 126
+[29-Apr-2015 12:28:10 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/include/Site.class.php on line 152
+[29-Apr-2015 12:32:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trademark/public_html/temp/include/Site.class.php on line 126
